@@ -1,4 +1,4 @@
-package cobraApp
+package main
 
 import "cobraApp/cmd"
 
